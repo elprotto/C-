@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578089694 source:d:\repositories\cpp\2.windowsdisplay\main.cpp
+	<stdio.h>
+	<windows.h>
+
